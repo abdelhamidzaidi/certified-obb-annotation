@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite it as below."
+title: "Conformally Certified Oriented Bounding-Box Annotation from Automatic Proposals: code and processed data"
+type: software
+authors:
+  - family-names: Zaidi
+    given-names: Abdelhamid Taieb
+    orcid: "https://orcid.org/0000-0003-1305-4959"
+    affiliation: "Department of Mathematics, College of Science, Qassim University, Buraydah 51452, Saudi Arabia"
+version: 1.0.0
+date-released: 2026-11-18
+license: MIT
+repository-code: "https://github.com/abdelhamidzaidi/certified-obb-annotation"
+keywords:
+  - oriented bounding box
+  - minimum-area rectangle
+  - conformal prediction
+  - risk control
+  - aerial imagery
+  - annotation
+  - DOTA
+  - iSAID

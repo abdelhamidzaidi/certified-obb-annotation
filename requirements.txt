@@ -1,0 +1,10 @@
+# Python 3.13.17
+# steps 3 to 16, numerical_checks.py and orientation_rule.py
+numpy==2.5.3
+scipy==1.18.1
+shapely==2.2.0
+matplotlib==3.11.2
+opencv-python-headless==5.0.0.93
+# steps 1 and 2 only (detection and segmentation)
+ultralytics==8.4.189
+torch==2.14.1

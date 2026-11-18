@@ -1,0 +1,15 @@
+{
+  "title": "Conformally Certified Oriented Bounding-Box Annotation from Automatic Proposals: code and processed data",
+  "upload_type": "software",
+  "description": "<p>Python code and processed data that reproduce every table and figure of the manuscript <em>Conformally Certified Oriented Bounding-Box Annotation from Automatic Proposals</em>. The scripts compute proportional conformal margins for oriented proposal rectangles on the DOTA v1.0 validation images with iSAID outlines as reference shapes, together with the geometric checks, the risk-control and statistical-sandwich analyses, and the additional analyses of the revised manuscript. The archive <code>data/obb_certified_data.zip</code> contains the detections, reference hulls, matches, scores, splits, outputs and reference logs, released under CC BY-NC 4.0; the code is released under the MIT License.</p>",
+  "creators": [
+    {
+      "name": "Zaidi, Abdelhamid Taieb",
+      "affiliation": "Department of Mathematics, College of Science, Qassim University",
+      "orcid": "0000-0003-1305-4959"
+    }
+  ],
+  "license": "MIT",
+  "keywords": ["oriented bounding box", "minimum-area rectangle", "conformal prediction", "risk control", "aerial imagery", "annotation", "DOTA", "iSAID"],
+  "access_right": "open"
+}

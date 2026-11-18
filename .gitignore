@@ -1,0 +1,8 @@
+results/
+logs/
+logs_reference/
+figs/
+__pycache__/
+*.pyc
+dota/
+*.pt
