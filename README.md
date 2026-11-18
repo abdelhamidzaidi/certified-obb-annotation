@@ -1,5 +1,7 @@
 # Conformally Certified Oriented Bounding-Box Annotation
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24337537.svg)](https://doi.org/10.5281/zenodo.24337537)
+
 Code and processed data accompanying the manuscript *Conformally Certified Oriented Bounding-Box Annotation from
 Automatic Proposals* (A. T. Zaidi, Department of Mathematics, College of Science, Qassim
 University). Running the numbered scripts in order reproduces every table and figure of the
@@ -7,7 +9,7 @@ manuscript; Table A2 of the manuscript and the table below map each file to the 
 tables and figures it reproduces. The comments in the code use the notation of the manuscript.
 
 Author: Abdelhamid Taieb Zaidi (ORCID [0000-0003-1305-4959](https://orcid.org/0000-0003-1305-4959)).
-To cite this repository, use the metadata in `CITATION.cff` or the DOI of the archived release on Zenodo.
+To cite this repository, use the metadata in `CITATION.cff` or the Zenodo DOI [10.5281/zenodo.24337537](https://doi.org/10.5281/zenodo.24337537).
 
 ## Quick start
 
